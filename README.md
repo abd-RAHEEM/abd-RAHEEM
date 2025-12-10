@@ -66,6 +66,12 @@
 </a>
 </p>
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abd-RAHEEM&theme=dark&hide_border=true" />
+  <br/>
+</p>
 ---
 
 
