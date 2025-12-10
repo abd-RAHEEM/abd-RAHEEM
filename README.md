@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">Hi there, I'm Abdul Raheem! 👋</h1>
-<h3 align="center">AI Intern • Full-Stack Developer • ML Enthusiast</h3>
+<h3 align="center">AI • Full-Stack Developer • ML Enthusiast</h3>
 
 <p align="center">
   <em>Passionate about building intelligent systems, scalable apps, and impactful user experiences.</em>
@@ -12,8 +12,7 @@
 - 🎓 Pre-Final-year IT student at CBIT (CGPA: 9.21)  
 - 🤖 AI Intern @ Viswam.ai — Fine-tuning LLMs & building RAG chatbots  
 - 💻 Full-Stack Developer — React, FastAPI, MongoDB  
-- 📊 ML Projects — CNNs, OCR, Analytics  
-- 🏆 Awards — Amazon ML School ’25, Hacktoberfest Mention, MUN Awards  
+- 📊 ML Projects — CNNs, OCR, Analytics   
 - 🔍 Currently diving deeper into AI, NLP, RAG & LLMOps
 
 ---
