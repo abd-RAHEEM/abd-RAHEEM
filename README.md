@@ -34,10 +34,14 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
   <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" />
+  </p>
+  
 ### **Databases**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
   <img src="https://skillicons.dev/icons?i=oracle" />
+  </p>
+  
 ### **Tools & Platforms**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,linux" />
