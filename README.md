@@ -9,7 +9,7 @@
 ---
 
 ## 🌍 About Me  
-- 🎓 Final-year IT student at CBIT (CGPA: 9.21)  
+- 🎓 Pre-Final-year IT student at CBIT (CGPA: 9.21)  
 - 🤖 AI Intern @ Viswam.ai — Fine-tuning LLMs & building RAG chatbots  
 - 💻 Full-Stack Developer — React, FastAPI, MongoDB  
 - 📊 ML Projects — CNNs, OCR, Analytics  
@@ -22,52 +22,31 @@
 
 ### **Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js" />
 </p>
 
 ### **Frameworks & Libraries**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,fastapi,nodejs,express,flask,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap" />
 </p>
 
 ### **AI / ML**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas" />
 </p>
 
 ### **Databases**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,plsql" />
 </p>
 
 ### **Tools & Platforms**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,linux" />
 </p>
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 **FinTrack – Finance Tracker with OCR (Full-Stack)**
-A smart personal finance tracker that extracts products & prices from receipts using OCR + FastAPI preprocessing.  
-**Tech:** React, FastAPI, OCR, MongoDB  
-🔗 *[View Project](https://github.com/abd-RAHEEM/FinTrack)*
-
----
-
-### 🔹 **Pneumonia Detection with CNN**
-Deep learning model trained on chest X-Rays with high accuracy.  
-**Tech:** Python, TensorFlow, CNN  
-🔗 *[Repository](#)*
-
----
-
-### 🔹 **RAG Intelligent Document QA Chatbot**
-Multi-document chatbot using embeddings, vector DB & LLM prompting.  
-🔗 *[Repository](#)*
-
----
 
 ## 🤝 Let’s Connect!
 
@@ -80,17 +59,14 @@ Multi-document chatbot using embeddings, vector DB & LLM prompting.
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   &nbsp;
-  <a href="https://kaggle.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=kaggle" />
-  </a>
+  <a href="https://www.kaggle.com/abdulraheem145145" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" height="40"/>
+</a>
 </p>
 
 ---
 
-## 🎉 Fun Fact  
-💡 *I love building tools that automate everyday tasks — from expense tracking to AI-powered assistants!*
 
----
 
 ## 📈 GitHub Stats
 
