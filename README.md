@@ -33,13 +33,13 @@
 ### **AI / ML**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" />
+  <img src="https://skillicons.dev/icons?i=sklearn" />
   </p>
   
 ### **Databases**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-  <img src="https://skillicons.dev/icons?i=oracle" />
+  
   </p>
   
 ### **Tools & Platforms**
@@ -73,7 +73,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abd-RAHEEM&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=abd-RAHEEM&theme=dark&hide_border=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abd-RAHEEM&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abd-RAHEEM&show_icons=true&theme=dark&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abd-RAHEEM&layout=compact&theme=dark&hide_border=true" />
 </p>
