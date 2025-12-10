@@ -73,9 +73,17 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abd-RAHEEM&theme=dark&hide_border=true" />
+  <!-- profile overview / total stats (official vercel instance) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=abd-RAHEEM&show_icons=true&theme=dark&hide_border=true" alt="Abdul Raheem GitHub Stats" />
+
   <br/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abd-RAHEEM&show_icons=true&theme=dark&hide_border=true" />
+
+  <!-- top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abd-RAHEEM&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
+
   <br/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abd-RAHEEM&layout=compact&theme=dark&hide_border=true" />
+
+  <!-- streaks - alternative mirror (if down, this will be hidden) -->
+  <img src="https://streak-stats.demolab.com?user=abd-RAHEEM&theme=dark&hide_border=true" alt="streak stats"/>
 </p>
+
