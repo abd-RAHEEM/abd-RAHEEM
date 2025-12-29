@@ -9,39 +9,35 @@
 ---
 
 ## 🌍 About Me  
-- 🎓 Pre-Final-year IT student at CBIT (CGPA: 9.21)  
-- 🤖 AI Intern @ Viswam.ai — Fine-tuning LLMs & building RAG chatbots  
-- 💻 Full-Stack Developer — React, FastAPI, MongoDB  
-- 📊 ML Projects — CNNs, OCR, Analytics   
+- 🎓 Pre-Final-year IT student at CBIT (CGPA: 9.21)    
 - 🔍 Currently diving deeper into AI, NLP, RAG & LLMOps
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-### **Languages**
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js" />
 </p>
 
-### **Frameworks & Libraries**
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap" />
 </p>
 
-### **AI / ML**
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
   <img src="https://skillicons.dev/icons?i=sklearn" />
   </p>
   
-### **Databases**
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
   
   </p>
-  
-### **Tools & Platforms**
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,linux" />
 </p>
