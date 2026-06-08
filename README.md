@@ -9,7 +9,7 @@
 ---
 
 ## 🌍 About Me  
-- 🎓 Pre-Final-year IT student at CBIT (CGPA: 9.21)    
+- 🎓 Final-year IT student at CBIT (CGPA: 9.13)    
 - 🔍 Currently diving deeper into AI, NLP, RAG & LLMOps
 
 ---
