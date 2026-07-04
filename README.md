@@ -55,7 +55,7 @@ adaptable, and built to last.
 
 ---
 
-<details>
+
 <summary><b>🧰 What's in the stack, if you're curious</b></summary>
 <br>
 <p align="center">
@@ -64,7 +64,7 @@ adaptable, and built to last.
 <p align="center">
 <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge" alt="LangGraph" />
 </p>
-</details>
+
 
 ---
 
