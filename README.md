@@ -1,74 +1,73 @@
-<!-- Banner -->
-<h1 align="center">Hi there, I'm Abdul Raheem! 👋</h1>
-<h3 align="center">AI • Full-Stack Developer • ML Enthusiast</h3>
+<div align="center">
+
+# Hi, I'm Abdul Raheem 👋
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+that+scale;From+machine+learning+to+autonomous+AI;From+backend+architecture+to+user+experience;Research-driven+engineering;Performance%2C+reliability+and+simplicity;Turning+ambitious+ideas+into+production+software" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&pause=1200&color=000000&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+that+scale;From+machine+learning+to+autonomous+AI;From+backend+architecture+to+user+experience;Research-driven+engineering;Performance%2C+reliability+and+simplicity;Turning+ambitious+ideas+into+production+software" alt="Typing SVG" />
+</picture>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=abd-RAHEEM&label=Profile%20Views&color=000000&style=flat-square)](https://github.com/abd-RAHEEM)
+
+</div>
+
+---
+
+### About
+
+Final-year IT student at CBIT, currently interning at INCOIS, where I build agentic pipelines for ocean drift modeling. Most of what I work on sits at the intersection of LLMs, backend systems, and things that need to actually hold up outside a notebook — not just run once.
+
+---
+
+<div align="center">
+
+### 🐍 Fed by my own contribution graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abd-RAHEEM/abd-RAHEEM/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/abd-RAHEEM/abd-RAHEEM/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<sub>Updates automatically every 6 hours — see setup note below</sub>
+
+</div>
+
+---
+
+<details>
+<summary><b>🧰 What's in the stack, if you're curious</b></summary>
+<br>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,js,react,nextjs,nodejs,fastapi,threejs,pytorch,tensorflow,sklearn,mongodb,mysql,redis,docker,azure,git,github,linux" />
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge" alt="LangGraph" />
+</p>
+</details>
+
+
+---
+
+### GitHub Activity
+
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=abd-RAHEEM&theme=graywhite&hide_border=true" alt="GitHub Streak" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abd-RAHEEM&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
+
+---
+
+### Let's Connect
 
 <p align="center">
-  <em>Passionate about building intelligent systems, scalable apps, and impactful user experiences.</em>
-</p>
-
----
-
-## 🌍 About Me  
-- 🎓 Final-year IT student at CBIT (CGPA: 9.13)    
-- 🔍 Currently diving deeper into AI, NLP, RAG & LLMOps
-
----
-
-## 🛠️ Technologies & Tools
-
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js" />
-</p>
-
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap" />
-</p>
-
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-  <img src="https://skillicons.dev/icons?i=sklearn" />
-  </p>
-  
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-  
-  </p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,linux" />
-</p>
-
----
-
-
-## 🤝 Let’s Connect!
-
-<p align="left">
   <a href="https://www.linkedin.com/in/abd-raheem" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
   <a href="mailto:yourmail@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;
   <a href="https://www.kaggle.com/abdulraheem145145" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" height="40"/>
-</a>
+    <img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
 </p>
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abd-RAHEEM&theme=dark&hide_border=true" />
-  <br/>
-</p>
----
-
-
-
-
