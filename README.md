@@ -13,22 +13,43 @@
 
 ---
 
-### About
 
-Final-year IT student at CBIT, currently interning at INCOIS, where I build agentic pipelines for ocean drift modeling. Most of what I work on sits at the intersection of LLMs, backend systems, and things that need to actually hold up outside a notebook — not just run once.
+<h2 align="center">The Engineer</h2>
+
+<p align="center">
+Building intelligent software where Artificial Intelligence meets Software Engineering.
+</p>
+
+<p align="center">
+I enjoy designing and developing intelligent systems that solve real-world problems, combining
+Artificial Intelligence, Machine Learning, backend engineering, scalable architectures, and
+modern application development into production-ready solutions.
+</p>
+
+<p align="center">
+My interests span autonomous AI systems, large language models, distributed systems, system
+design, cloud technologies, data engineering, and software architecture. I enjoy taking ideas
+from research and transforming them into reliable, maintainable, and scalable products.
+</p>
+
+<p align="center">
+Beyond building applications, I'm constantly exploring emerging technologies, improving my
+engineering fundamentals, and challenging myself to create software that is efficient,
+adaptable, and built to last.
+</p>
+
 
 ---
 
 <div align="center">
 
-### 🐍 Fed by my own contribution graph
+### 🧱 Built from my own contribution graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abd-RAHEEM/abd-RAHEEM/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/abd-RAHEEM/abd-RAHEEM/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abd-RAHEEM/abd-RAHEEM/github-breakout/images/breakout-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abd-RAHEEM/abd-RAHEEM/github-breakout/images/breakout-light.svg" />
+  <img alt="Breakout game built from my contribution graph" src="https://raw.githubusercontent.com/abd-RAHEEM/abd-RAHEEM/github-breakout/images/breakout-light.svg" />
 </picture>
-
-<sub>Updates automatically every 6 hours — see setup note below</sub>
 
 </div>
 
@@ -45,29 +66,15 @@ Final-year IT student at CBIT, currently interning at INCOIS, where I build agen
 </p>
 </details>
 
-
 ---
+
 
 ### GitHub Activity
 
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=abd-RAHEEM&theme=graywhite&hide_border=true" alt="GitHub Streak" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abd-RAHEEM&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" />
+<img src="./profile/top-langs.svg" alt="Top Languages" />
 </div>
 
 ---
-
-### Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/abd-raheem" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.kaggle.com/abdulraheem145145" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-</p>
