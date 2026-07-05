@@ -13,9 +13,6 @@
 
 ---
 
-
-<h2 align="center">The Engineer</h2>
-
 <p align="center">
 Building intelligent software where Artificial Intelligence meets Software Engineering.
 </p>
