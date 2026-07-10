@@ -29,13 +29,6 @@ design, cloud technologies, data engineering, and software architecture. I enjoy
 from research and transforming them into reliable, maintainable, and scalable products.
 </p>
 
-<p align="center">
-Beyond building applications, I'm constantly exploring emerging technologies, improving my
-engineering fundamentals, and challenging myself to create software that is efficient,
-adaptable, and built to last.
-</p>
-
-
 ---
 
 <div align="center">
