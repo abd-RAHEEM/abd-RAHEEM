@@ -52,7 +52,6 @@ from research and transforming them into reliable, maintainable, and scalable pr
 </div>
 
 ---
----
 
 <div align="center">
 
