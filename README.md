@@ -29,22 +29,6 @@ design, cloud technologies, data engineering, and software architecture. I enjoy
 from research and transforming them into reliable, maintainable, and scalable products.
 </p>
 
----
-
-<div align="center">
-
-### 🧱 Built from my own contribution graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abd-RAHEEM/abd-RAHEEM/github-breakout/images/breakout-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abd-RAHEEM/abd-RAHEEM/github-breakout/images/breakout-light.svg" />
-  <img alt="Breakout game built from my contribution graph" src="https://raw.githubusercontent.com/abd-RAHEEM/abd-RAHEEM/github-breakout/images/breakout-light.svg" />
-</picture>
-
-</div>
-
----
-
 
 <summary><b>🧰 What's in the stack, if you're curious</b></summary>
 <br>
@@ -65,6 +49,21 @@ from research and transforming them into reliable, maintainable, and scalable pr
 <img src="https://streak-stats.demolab.com/?user=abd-RAHEEM&theme=graywhite&hide_border=true" alt="GitHub Streak" />
 <br/>
 <img src="./profile/top-langs.svg" alt="Top Languages" />
+</div>
+
+---
+---
+
+<div align="center">
+
+### 🧱 Built from my own contribution graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abd-RAHEEM/abd-RAHEEM/github-breakout/images/breakout-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abd-RAHEEM/abd-RAHEEM/github-breakout/images/breakout-light.svg" />
+  <img alt="Breakout game built from my contribution graph" src="https://raw.githubusercontent.com/abd-RAHEEM/abd-RAHEEM/github-breakout/images/breakout-light.svg" />
+</picture>
+
 </div>
 
 ---
